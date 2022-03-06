@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=_hello hello
+mv [[:upper:]]* /tmp/u
